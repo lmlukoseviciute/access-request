@@ -13,7 +13,7 @@ Please follow these steps:
 1. Click on the [**Issues** tab](https://github.com/lmlukoseviciute/access-request/issues).
 2. Click on the green **“New issue”** button.
 3. Use the title:  
-   `Access request for your-private-repo`
+   `Access request for data analyses`
 4. In the issue description, include your **GitHub username**.
 5. Submit the issue. You’ll receive an invitation once your request is approved.
 
