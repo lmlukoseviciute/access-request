@@ -2,7 +2,7 @@
 
 Welcome! This is a placeholder repository to request access to a private project.
 
-If you are trying to access the **[`data analyses`](https://github.com/lmlukoseviciute/TC)** and received a 404 or “not found” error, that’s expected — it’s private.
+If you are trying to access the **[`data analyses`](https://github.com/lmlukoseviciute/TC)**, this analyses is private, in order to see it please ask for access.
 
 ---
 
