@@ -2,7 +2,7 @@
 
 Welcome! This is a placeholder repository to request access to a private project.
 
-If you are trying to access the **[`data analyses`](https://github.com/lmlukoseviciute/TC)**, this analyses is private, in order to see it please ask for access.
+If you are trying to access the **[`data analyses`](https://github.com/lmlukoseviciute/TC)** on [Everythin Data](https://lmlukoseviciute.github.io/EverythingData/), this analyses is private, in order to see it please ask for access.
 
 ---
 
