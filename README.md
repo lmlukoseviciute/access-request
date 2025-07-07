@@ -28,6 +28,6 @@ Once invited, GitHub will notify you via email or dashboard. You must **accept t
 ---
 
 Thanks for your interest!
-- Laima
+— Laima
 
 
